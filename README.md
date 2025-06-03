@@ -89,7 +89,7 @@ streamlit run app.py
 
 **Aplikasi Cloud:**
 Aplikasi telah di-deploy ke Streamlit Community Cloud dan dapat diakses melalui:
-[🔗 Student Dropout Prediction App](https://potahere-dropout-prediction.streamlit.app/)
+[🔗 Student Dropout Prediction App](https://potahere-dropout-students.streamlit.app/)
 
 ## Evaluation
 
@@ -311,7 +311,7 @@ Berdasarkan hasil proyek data science ini, berikut adalah rekomendasi action ite
 ```
 
 ## 🔗 Links
-- **Streamlit App**: [Student Dropout Prediction Dashboard](https://potahere-dropout-prediction.streamlit.app/)
+- **Streamlit App**: [Student Dropout Prediction Dashboard](https://potahere-dropout-students.streamlit.app/)
 - **Dashboard Screenshot**: `jafar_shodiq-dashboard.png`
 
 ## 👨‍💻 Author
